@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Navigation - Nonrefactoring/1.0.0": {
+        "runtime": {
+          "Navigation - Nonrefactoring.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Navigation - Nonrefactoring/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

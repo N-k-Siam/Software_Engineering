@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\Navigation\Navigation\bin\Debug\net8.0\Navigation.exe
+C:\Users\USER\Desktop\Navigation\Navigation\bin\Debug\net8.0\Navigation.deps.json
+C:\Users\USER\Desktop\Navigation\Navigation\bin\Debug\net8.0\Navigation.runtimeconfig.json
+C:\Users\USER\Desktop\Navigation\Navigation\bin\Debug\net8.0\Navigation.dll
+C:\Users\USER\Desktop\Navigation\Navigation\bin\Debug\net8.0\Navigation.pdb
+C:\Users\USER\Desktop\Navigation\Navigation\obj\Debug\net8.0\Navigation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Navigation\Navigation\obj\Debug\net8.0\Navigation.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Navigation\Navigation\obj\Debug\net8.0\Navigation.AssemblyInfo.cs
+C:\Users\USER\Desktop\Navigation\Navigation\obj\Debug\net8.0\Navigation.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Navigation\Navigation\obj\Debug\net8.0\Navigation.dll
+C:\Users\USER\Desktop\Navigation\Navigation\obj\Debug\net8.0\refint\Navigation.dll
+C:\Users\USER\Desktop\Navigation\Navigation\obj\Debug\net8.0\Navigation.pdb
+C:\Users\USER\Desktop\Navigation\Navigation\obj\Debug\net8.0\Navigation.genruntimeconfig.cache
+C:\Users\USER\Desktop\Navigation\Navigation\obj\Debug\net8.0\ref\Navigation.dll
