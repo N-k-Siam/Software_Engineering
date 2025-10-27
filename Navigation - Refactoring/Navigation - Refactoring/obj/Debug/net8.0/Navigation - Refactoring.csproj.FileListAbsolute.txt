@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\Navigation - Refactoring\Navigation - Refactoring\bin\Debug\net8.0\Navigation - Refactoring.exe
+C:\Users\USER\Desktop\Navigation - Refactoring\Navigation - Refactoring\bin\Debug\net8.0\Navigation - Refactoring.deps.json
+C:\Users\USER\Desktop\Navigation - Refactoring\Navigation - Refactoring\bin\Debug\net8.0\Navigation - Refactoring.runtimeconfig.json
+C:\Users\USER\Desktop\Navigation - Refactoring\Navigation - Refactoring\bin\Debug\net8.0\Navigation - Refactoring.dll
+C:\Users\USER\Desktop\Navigation - Refactoring\Navigation - Refactoring\bin\Debug\net8.0\Navigation - Refactoring.pdb
+C:\Users\USER\Desktop\Navigation - Refactoring\Navigation - Refactoring\obj\Debug\net8.0\Navigation - Refactoring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Navigation - Refactoring\Navigation - Refactoring\obj\Debug\net8.0\Navigation - Refactoring.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Navigation - Refactoring\Navigation - Refactoring\obj\Debug\net8.0\Navigation - Refactoring.AssemblyInfo.cs
+C:\Users\USER\Desktop\Navigation - Refactoring\Navigation - Refactoring\obj\Debug\net8.0\Navigation - Refactoring.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Navigation - Refactoring\Navigation - Refactoring\obj\Debug\net8.0\Navigation - Refactoring.dll
+C:\Users\USER\Desktop\Navigation - Refactoring\Navigation - Refactoring\obj\Debug\net8.0\refint\Navigation - Refactoring.dll
+C:\Users\USER\Desktop\Navigation - Refactoring\Navigation - Refactoring\obj\Debug\net8.0\Navigation - Refactoring.pdb
+C:\Users\USER\Desktop\Navigation - Refactoring\Navigation - Refactoring\obj\Debug\net8.0\Navigation - Refactoring.genruntimeconfig.cache
+C:\Users\USER\Desktop\Navigation - Refactoring\Navigation - Refactoring\obj\Debug\net8.0\ref\Navigation - Refactoring.dll
